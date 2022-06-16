@@ -1,0 +1,2 @@
+Frequencies in a Sorted Array:
+https://www.geeksforgeeks.org/find-the-frequency-of-each-element-in-a-sorted-array/
