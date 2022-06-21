@@ -1,0 +1,2 @@
+Left Rotate by d (Make sure to learn the Algorithm used in the Question) :
+https://www.geeksforgeeks.org/array-rotation/
