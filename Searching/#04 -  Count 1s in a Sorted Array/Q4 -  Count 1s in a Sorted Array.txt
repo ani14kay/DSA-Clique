@@ -1,0 +1,2 @@
+Count 1s in a Sorted Array : 
+https://www.geeksforgeeks.org/count-1s-sorted-binary-array/
