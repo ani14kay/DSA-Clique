@@ -1,0 +1,2 @@
+Pair with given sum in Unsorted Array : 
+https://www.geeksforgeeks.org/count-pairs-with-given-sum/
